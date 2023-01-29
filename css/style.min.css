@@ -45,7 +45,7 @@ h5, h6 {
     font-size: 14px;
 }
 ol, p, ul {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 a {
     transition: .3s all;
@@ -1008,7 +1008,15 @@ a:active, a:focus, a:hover {
     transition: .3s all;
     position: relative;
     top: 0;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
+}
+#hiring{
+    border: 1px solid #e6e5e5;
+    padding: 20px;
+    -webkit-transition: .3s all;
+    transition: .3s all;
+    position: relative;
+
 }
 .probootstrap-teacher .media {
     margin-bottom: 20px;
@@ -1041,6 +1049,12 @@ a:active, a:focus, a:hover {
     color: #dd4b39;
 }
 .probootstrap-teacher:focus, .probootstrap-teacher:hover {
+    top: -10px;
+    border: 1px solid transparent;
+    -webkit-box-shadow: 0 2px 20px 0 rgba(0, 0, 0, .1);
+    box-shadow: 0 2px 20px 0 rgba(0, 0, 0, .1);
+}
+#hiring:focus, #hiring:hover{
     top: -10px;
     border: 1px solid transparent;
     -webkit-box-shadow: 0 2px 20px 0 rgba(0, 0, 0, .1);
