@@ -7642,3 +7642,28 @@ a.pswp__share--download:hover {
 
 .pswp--minimal--dark .pswp__top-bar {
   background: none; }
+
+
+
+  /* parth changes */
+.office-timings {
+  text-align: center;
+  padding: 20px;
+  background-color: #f2f2f2;
+  margin-bottom: 20px;
+}
+
+.office-timings h3 {
+  margin-bottom: 10px;
+}
+
+.office-timings ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.office-timings li {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
