@@ -1589,7 +1589,13 @@ a:hover, a:focus, a:active {
 .probootstrap-featured-news-box .probootstrap-media {
   position: relative;
   z-index: 1;
+  
 }
+
+#navoday {
+  height: 550px;
+}
+
 
 .probootstrap-featured-news-box .probootstrap-text {
   position: relative;
@@ -1929,6 +1935,7 @@ a:hover, a:focus, a:active {
     margin-right: 0;
   }
 }
+
 
 .three-cols .grid-item, .three-cols
 .grid-sizer {
